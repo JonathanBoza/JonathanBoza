@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou o Jonathan Euzébio Boza</h1>
+<h1 align="center">Olá 👋, Eu sou o Jeb</h1>
 
 - 📫 Contate-me no email: **jebcode@outlook.com.br**
 
