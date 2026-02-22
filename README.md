@@ -42,18 +42,6 @@ Gosto de aprender novas tecnologias, enfrentar desafios técnicos e contribuir c
 
 ---
 
-### 📈 Estatísticas no GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanBoza&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JonathanBoza&show_icons=true&locale=pt-br&theme=tokyonight" />
-</p>
-
----
-
 ### 📚 Tecnologias que mais utilizo
 
 - 🧩 **Frontend**: HTML5, CSS3, JavaScript, TypeScript, React, Angular, Vue, Sass, Bootstrap  
