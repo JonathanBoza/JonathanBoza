@@ -9,6 +9,7 @@
 ### ✉️ Contato
 
 - 📧 Email: [jebcode@outlook.com.br](mailto:jebcode@outlook.com.br)
+- 📧 Email: [jonathan.boza@jebcode.com.br](mailto:jonathan.boza@jebcode.com.br)
 - 📍 Localização: São Bento do Sul - SC, Brasil
 
 ---
